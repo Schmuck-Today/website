@@ -4,7 +4,7 @@ layout: contact
 description: Impressum
 ---
 
-Schmuck Today ist ein Angebot von:
+Schmuck today ist ein Angebot von:
 
 Jürgen Pawlowski\
 Augsburger Straße 50 B\
