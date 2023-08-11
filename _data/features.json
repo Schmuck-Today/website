@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Attraktive Auswahl",
+    "description": "Klassiker und Trends für jeden Geschmack.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/jewelry-shop.gif",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Hochwertige Optik",
+    "description": "Gute Verarbeitung und hohe Qualität, die Sie strahlen lassen.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/diamond.gif",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Günstige Preise",
+    "description": "Kleiner Preis, für den Sie sich mehr leisten können.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/price-tag.gif",
       "width": 80,
       "height": 80
     }
