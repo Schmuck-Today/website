@@ -9,7 +9,10 @@ Schmuck Today ist ein Angebot von:
 Jürgen Pawlowski\
 Augsburger Straße 50 B\
 86368 Gersthofen\
-GERMANY
+Deutschland
+
+Telefon: 0821 34995723\
+E-Mail: [service@schmuck-today.de](mailto:service@schmuck-today.de)
 
 LUCID Registrierungs-Nr. DE3025910075708\
 USt-IdNr. DE342212185
