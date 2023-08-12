@@ -1,7 +1,7 @@
 ---
-title: Impressum
+title: Impressum | Schmuck today
 layout: contact
-description: Impressum
+description: Impressum und Kontaktinformationen, sowie allgemeine Hinweise
 ---
 
 Schmuck today ist ein Angebot von:
