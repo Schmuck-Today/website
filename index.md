@@ -1,5 +1,5 @@
 ---
-title: Schmuck today
+meta_title: Schmuck today
 layout: home
 description: Schmuck, Uhren und Accessoires zu fairen Preisen. Besuchen Sie unseren Shop auf eBay.
 intro_image: "images/illustrations/jewelry.svg"
