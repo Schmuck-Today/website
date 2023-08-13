@@ -16,6 +16,8 @@
   <meta name="msapplication-TileColor" content="#5e34f6">
   <meta name="theme-color" content="#ffffff">
 
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | relative_url }}" />
+
   <!-- Google Fonts CDN -->
   <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
   <!-- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> -->
@@ -33,7 +35,6 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
-
 </head>
 
 <body class='page {{layout.bodyClass}}'>

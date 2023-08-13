@@ -18,6 +18,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
