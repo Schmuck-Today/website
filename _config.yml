@@ -3,12 +3,12 @@ permalink: pretty
 title: 'Schmuck today'
 
 logo:
-  mobile: "images/logo/logo.jpg"
-  mobile_height: "90px"
-  mobile_width: "90px"
-  desktop: "images/logo/logo.jpg"
-  desktop_height: "120px"
-  desktop_width: "120px"
+  mobile: "images/logo/logo.png"
+  mobile_height: "98px"
+  mobile_width: "117px"
+  desktop: "images/logo/logo.png"
+  desktop_height: "98px"
+  desktop_width: "117px"
 
 home: 
   limit_services: 6
