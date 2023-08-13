@@ -4,10 +4,10 @@ layout: page
 description: Jürgen Pawlowski gibt eine Stellungnahme zum Fake Shop famozdealz.de ab, bei dem die Daten seiner Firma Schmuck today rechtswidrig im Impressum verwendet werden.
 ---
 
-famozdealz.de ist *NICHT* meine Domain und *NICHT* mein Shop.
+famozdealz.de ist <u>nicht</u> meine Domain und *Famoz Dealz* <u>nicht</u> mein Shop.
 
-**famozdealz.de ist ein *FAKE Shop*, *NICHT* kaufen !!!**\
-**Überweisen Sie *KEIN* Geld, Sie erhalten *KEINE* Ware !!!**
+**famozdealz.de ist ein *FAKE Shop*, *<u>NICHT</u>* kaufen !!!**\
+**Überweisen Sie *<u>KEIN</u>* Geld, Sie erhalten dort *<u>KEINE</u>* Ware !!!**
 
 famozdealz.de benutzt ein rechtswidriges Impressum.\
 Die Daten meiner darin genannten Firma *Schmuck today* wurden gestohlen und werden nun für betrügerische Zwecke missbraucht.
