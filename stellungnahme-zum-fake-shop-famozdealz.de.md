@@ -6,7 +6,7 @@ description: Jürgen Pawlowski gibt eine Stellungnahme zum Fake Shop famozdealz.
 
 famozdealz.de ist *NICHT* meine Domain und *NICHT* mein Shop.
 
-**famozdealz.de ist ein *FAKE SHOP* !!! *NICHT* kaufen !!!**\
+**famozdealz.de ist ein *FAKE Shop*, *NICHT* kaufen !!!**\
 **Überweisen Sie *KEIN* Geld, Sie erhalten *KEINE* Ware !!!**
 
 famozdealz.de benutzt ein rechtswidriges Impressum.\
