@@ -14,8 +14,8 @@ Die Daten meiner darin genannten Firma *Schmuck today* wurden gestohlen und werd
 
 Ich habe bereits Strafanzeige wegen Identitätsdiebstahl erstattet.
 
-Sie wird bearbeitet beim K11 in Augsburg unter der\
-Vorgangsnummer: BY7123-010014-23/01
+Sie wird bearbeitet beim K11 in Augsburg unter der Vorgangsnummer:\
+BY7123-010014-23/01
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Gersthofen, im August 2023
 
