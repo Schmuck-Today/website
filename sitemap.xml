@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://schmuck-today.de/</loc>
+<loc>https://schmuck-today.de/</loc>
+<lastmod>2023-08-16</lastmod>
 </url>
 <url>
-  <loc>https://schmuck-today.de/impressum/</loc>
+<loc>https://schmuck-today.de/impressum/</loc>
+<lastmod>2023-08-16</lastmod>
 </url>
 <url>
-  <loc>https://schmuck-today.de/stellungnahme-zum-fake-shop-famozdealz.de/</loc>
+<loc>https://schmuck-today.de/stellungnahme-zum-fake-shop-famozdealz.de/</loc>
+<lastmod>2023-08-16</lastmod>
 </url>
 </urlset>
